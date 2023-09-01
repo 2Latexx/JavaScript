@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My HTML-page</title>
+<style>
+    body
+    {
+        background-color:darkmagenta;
+    }
+</style>
+</head>
+<body>
+    <h1>Lauri Hakkarainen</h1>
+    <p style="color:greenyellow">Olen ADHD Jakesta</p>
+    <p><a href="https://www.keuda.fi">Joku sivu vaa akkia taha</a></p>
+    <p><img src="https://steamuserimages-a.akamaihd.net/ugc/963116666707750608/2192AE0DE1BCF96D7FDED60CA5047AC12D1DFA69/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="200px" /></p>
+    <p>"kissa.jpg" /></p>
+
+    <h3>HUH?</h3>
+    <ul>
+        <li>Jep</li>
+        <li>Joo</li>
+    </ul>
+    <h3>En keksi mitaa</h3>
+    <ol>
+        <li>pepeclap</li>
+        <li>pepelaugh</li>
+    </ol>
+</body>
+</html>
